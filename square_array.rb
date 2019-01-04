@@ -5,4 +5,3 @@ def square_array(array)
   apples_taken_out += 1
 end
 end
-square_array(numbers)
